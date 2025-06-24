@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Expressway';
-  src: url('https://raw.githubusercontent.com/PixelTani/expressway-fonts/main/Expressway%20Bold.ttf') format('truetype');
-  font-weight: 700;
+  src: url('https://raw.githubusercontent.com/PixelTani/expressway-fonts/main/Expressway%20Regular.ttf') format('truetype');
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
